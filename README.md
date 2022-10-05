@@ -1,1 +1,2 @@
-My first readme
+I am alx software engineer  
+this is my second commit update class
